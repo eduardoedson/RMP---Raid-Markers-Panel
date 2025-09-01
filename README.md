@@ -1,10 +1,10 @@
 # RaidMarkersPanel
 
-[![Version](https://img.shields.io/badge/version-1.8.0-blue.svg)](CHANGELOG.md)
+[![Version](https://img.shields.io/badge/version-1.8.2-blue.svg)](CHANGELOG.md)
 [![WoW](https://img.shields.io/badge/WoW_Interface-100207-green.svg)](https://worldofwarcraft.blizzard.com)
 [![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)](LICENSE)
-[![GitHub](https://img.shields.io/badge/source-GitHub-black.svg)](https://github.com/yourname/RaidMarkersPanel)
-[![CurseForge](https://img.shields.io/badge/release-CurseForge-orange.svg)](https://www.curseforge.com/wow/addons/raidmarkerspanel)
+[![GitHub](https://img.shields.io/badge/source-GitHub-black.svg)](https://github.com/eduardoedson/RMP---Raid-Markers-Pane)
+[![CurseForge](https://www.curseforge.com/wow/addons/rmp-raid-markers-panel)
 
 Lightweight panel for raid/party utilities:
 

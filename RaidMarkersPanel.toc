@@ -2,7 +2,7 @@
 ## Title: RaidMarkersPanel
 ## Notes: Quick target marks, world marker toggle, pull & ready tools.
 ## Author: Eduardo Alves - curse@eduardoalves.tech
-## Version: 1.7.3
+## Version: 1.8.2
 ## DefaultState: Enabled
 ## SavedVariables: RaidMarkersPanelDB
 
